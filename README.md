@@ -2,7 +2,6 @@
 ProjetoApoio ao Bootcamp
 Projeto disponível através da URL:
 ## Scripts Disponíveis:
-# Título <h1>
 ## Título <h2>
 ### Título <h3>
 #### Título <h4>
